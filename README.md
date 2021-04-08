@@ -9,7 +9,7 @@ Utilisez le gestionnaire de packages [npm](https://nodejs.org/en/download/) pour
 ```bash
 npm install
 ```
-Ensuite, vous devez renommer `` config.json.example`` en `` config.json`` et mettre le token de votre application discord et choisir la prefix de votre bot.
+Ensuite, vous devez renommer `` config.json.example`` en `` config.json`` et mettre le token de votre application discord et choisir la prefix de votre bot dans ce fichier.
 
 Pour obtenir le token de votre application allez sur la page Discord Developer [Link](https://discord.com/developers/applications)
 
