@@ -16,8 +16,8 @@ Pour obtenir le token de votre application allez sur la page Discord Developer [
 ## Inclus
 - Gestionnaire de commandes
 - Responsable de l'événement
-- Commande de Ping
 - Événements nécessaires
+- ommande de Ping
 - Commande botinfo
 - Commande avatar
 
